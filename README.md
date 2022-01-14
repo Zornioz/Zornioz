@@ -2,7 +2,7 @@
 
 
 - I’m currently learning:
-  Cisco DevNet and TryHackMe
+  Cisco DevNet, TryHackMe and Python
 - Tryhackme: https://tryhackme.com/p/zornioz
 
 <!---
